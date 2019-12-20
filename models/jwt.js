@@ -13,4 +13,5 @@ function Jwt(data) {
         return token
     }
 }
+
 module.exports = Jwt;
